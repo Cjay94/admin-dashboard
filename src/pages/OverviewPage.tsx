@@ -1,6 +1,10 @@
+import Header from "../components/common/Header"
+
 const OverviewPage = () => {
     return (
-        <div>OverviewPage</div>
+        <div>
+            <Header title="Sample" />
+        </div>
     )
 }
 
