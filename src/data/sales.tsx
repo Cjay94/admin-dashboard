@@ -12,3 +12,11 @@ export const SALES_DATA = [
     { Month: "November", Sales: 5400 },
     { Month: "December", Sales: 7200 },
 ];
+
+export const SALES_CHANNEL_DATA = [
+    { name: "Website", value: 45600, color: "#fb2c36" },
+    { name: "Mobile App", value: 38200, color: "#ff6900" },
+    { name: "Marketplace", value: 29800, color: "#00c951" },
+    { name: "Social Media", value: 18700, color: "#2b7fff" },
+];
+
